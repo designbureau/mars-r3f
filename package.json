@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^9.14.3",
+    "@react-three/fiber": "^8.0.27",
+    "camera-controls": "github:yomotsu/camera-controls",
     "next": "12.2.0",
+    "next-transpile-modules": "^9.0.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "three": "^0.142.0",
+    "three-landscape": "^0.4.0"
   },
   "devDependencies": {
     "eslint": "8.18.0",
